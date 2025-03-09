@@ -1,1 +1,13 @@
 streamlit
+chromadb
+faiss-cpu
+transformers
+langchain-community
+rank-bm25
+pypdf
+torch
+nltk
+scikit-learn
+numpy
+pandas
+
