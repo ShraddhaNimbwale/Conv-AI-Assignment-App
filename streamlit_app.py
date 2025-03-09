@@ -1,3 +1,22 @@
+pip install chromadb
+
+!pip install faiss-cpu
+!pip install transformers
+pip install --upgrade protobuf transformers tensorflow
+pip install --upgrade langchain langchain-community
+pip install rank-bm25
+
+
+pip install pypdf
+
+
+pip install sentence-transformers
+
+pip install tf-keras
+
+pip install --upgrade jupyterlab ipywidgets
+
+
 import streamlit as st
 import os
 import chromadb
